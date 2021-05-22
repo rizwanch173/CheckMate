@@ -11,7 +11,8 @@ After login:
 * 5 bottom menus ( like instagram) :
 * Home : leave it empty
 * Swap : images uploaded by other users will show here, and user can swip right if he likes or left if he dislikes. 
-* When swiping right he should choose a score 4 or 5 or 6 points. * If he swips left he then can choose to score 1 or 2 or 3 points. 
+* When swiping right he should choose a score 4 or 5 or 6 points. 
+* If he swips left he then can choose to score 1 or 2 or 3 points. 
 * When confirmed, the score is stored in the database for that particular image associated with that particular user who voted, so he doesn't vote twice. 
 * Also add ability to report image, and if image is reported more 10 times it should be blocked from being displayed.
 * Upload : Upload image ( camera and library ) with ability to crop, select multiple (like instagram carousel ), and add a comment that can include hashtags. 
